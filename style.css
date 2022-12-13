@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+b{
+    font-size: 22px;
+}
+canvas{
+    box-shadow: 5px 10px 15px rgb(59, 59, 59);
+    border-color: white;
+    border: solid;
+    border-radius: 18px;
+}
